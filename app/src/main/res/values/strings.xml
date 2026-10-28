@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OtherActivityToken</string>
+    <string name="start_button">Start</string>
+    <string name="intro">
+        This is Proof-of-Concept for leaking Activity Token of another app through
+        <tt>TaskFragmentTransaction.Change.getOtherActivityToken()</tt>
+        received by <tt>TaskFragmentOrganizer</tt>
+
+        \n\nPress button below on device running Android 15, if everything goes well you\'ll
+        see <tt>PlatLogoActivity</tt> after about 15 seconds
+    </string>
+</resources>
